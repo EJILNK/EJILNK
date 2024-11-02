@@ -22,7 +22,7 @@
 ### 🤍 My tools and languages:
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  height="102"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  height="62"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  height="62"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"  height="62"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  height="102"/> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="102"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  height="62"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  height="62"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"  height="62"/>
 
 ---
 
