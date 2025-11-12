@@ -9,12 +9,10 @@
 
 ### 🤍 About me:
 
--  Age:18 
+-  Age:19 
 -  Birthday: February 27
 -  Male
--  Relationship: Alone
--  2k hours tarkov player
--  SibSUTIS 1-st course student
+-  SibSUTIS 2-nd course student
 
 ---
   
