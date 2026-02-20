@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.myshows.me/episodes/760/0/f3/0f343fe71066dd7ae4ec2828d362bd16.jpg" width="1200"/>
+  <img src="https://images.steamusercontent.com/ugc/9421569177430853559/2C8701DE90CC97FF77773977B927C4CC8D6FB1E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1200"/>
   
   <h1>
     🤍 Hello there 🤍
@@ -24,8 +24,4 @@
 
 ---
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJILNK)](https://github.com/anuraghazra/github-readme-stats)
-[![EJILNK's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJILNK)](https://github.com/anuraghazra/github-readme-stats)
 
