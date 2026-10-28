@@ -9,10 +9,10 @@
 
 ### 🤍 About me:
 
--  Age:19 
+-  Age:20 
 -  Birthday: February 27
 -  Male
--  SibSUTIS 2-nd course student
+-  SibSUTIS 3-rd course student
 
 ---
   
